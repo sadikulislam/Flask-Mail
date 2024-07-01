@@ -1,0 +1,9 @@
+# folders to be ignored
+venv/
+__pycache__/
+
+# Python executables
+*.pyc
+
+#Environment variables
+.env
